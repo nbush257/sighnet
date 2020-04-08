@@ -4,13 +4,15 @@ Sighnet is the Brian2 implementation of the sigh generation model described in S
 
 Find the Brian2 documentation at https://brian2.readthedocs.io/en/stable/
 
+**Requirements:**
+- brian2
+- click
+- pandas
+- scipy
+
 ------------------
 
 ### Running sighnet
-
-To run sighnet, first create a conda environment from the included `environment.yaml` file
-
-`conda env create -n sighnet -f environment.yaml`
 
 `cd` to the data directory and run:
 
