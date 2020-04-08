@@ -1,6 +1,6 @@
 ## Sighnet
 
-Sighnet is the Brian2 implementation of the sigh generation model described in Severs et al.
+Sighnet is the Brian2 implementation of the sigh generation model described in Severs et al.(in progress)
 
 Find the Brian2 documentation at https://brian2.readthedocs.io/en/stable/
 
